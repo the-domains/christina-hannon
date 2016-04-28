@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Christina Hannon ministers to aspiring leaders, focusing first on self-understanding and self-leadership. '
-datePublished: '2016-04-28T20:20:45.995Z'
-dateModified: '2016-04-28T20:20:32.739Z'
+datePublished: '2016-04-28T22:11:14.947Z'
+dateModified: '2016-04-28T22:10:31.094Z'
 title: ''
 author: []
 authors: []
@@ -15,9 +15,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-04-28-christina-hannon-ministers-to-aspiring-leaders-focusing-fir.md
 published: true
+starred: true
 url: christina-hannon-ministers-to-aspiring-leaders-focusing-fir/index.html
 _type: Article
 
