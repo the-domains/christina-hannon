@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: www.thelivingperson.com
-datePublished: '2016-04-28T21:15:09.383Z'
-dateModified: '2016-04-28T21:14:54.391Z'
+datePublished: '2016-04-28T21:22:00.717Z'
+dateModified: '2016-04-28T21:15:11.061Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-28-wwwthelivingpersoncom.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-wwwthelivingpersoncom.md
-published: true
 url: wwwthelivingpersoncom/index.html
 _type: Article
 
