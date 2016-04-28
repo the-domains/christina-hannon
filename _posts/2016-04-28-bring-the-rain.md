@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Those who live in the Midwest understand the real sadness caused by 300 cloudy days per year. The diagnosis is Seasonal Affective Disorder (SAD). It strikes most during the winter. '
-datePublished: '2016-04-28T20:33:46.557Z'
-dateModified: '2016-04-28T20:33:03.969Z'
+datePublished: '2016-04-28T20:41:10.421Z'
+dateModified: '2016-04-28T20:39:50.576Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-28-bring-the-rain.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-bring-the-rain.md
-published: true
 url: bring-the-rain/index.html
 _type: Article
 
@@ -26,4 +26,4 @@ _type: Article
 
 Those who live in the Midwest understand the real sadness caused by 300 cloudy days per year. The diagnosis is Seasonal Affective Disorder (SAD). It strikes most during the winter. 
 
-I used to only be grateful when the sun was out. Then, a spiritual director challenged me to carry the metaphor further. The sun is still there, behind the clouds, above the rain, event though we cannot always see it. God's love and mercy is always there, even behind the thickest clouds of depression, stress, or pain.
+I used to only be grateful when the sun was out. Then, a spiritual director challenged me to carry the metaphor further. The sun is still there, behind the clouds, above the rain, event though we cannot always see it. God's love and mercy is always there, even behind the thickest clouds of depression, stress, or pain. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67fcb39d-ce9f-4db2-837d-ac5854618835.jpg)
