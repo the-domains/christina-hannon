@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "If you think about it, it’s funny. We've learned how to do math. We've learned about science and literature. I can even remember learning how to balance a check back in eighth grade."
-datePublished: '2016-04-28T20:56:11.759Z'
-dateModified: '2016-04-28T20:56:11.483Z'
+datePublished: '2016-04-28T21:21:31.739Z'
+dateModified: '2016-04-28T21:21:12.131Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-28-if-you-think-about-it-its-funny-weve-learned-how-to-do-m.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,12 +18,12 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-if-you-think-about-it-its-funny-weve-learned-how-to-do-m.md
-published: true
 url: if-you-think-about-it-its-funny-weve-learned-how-to-do-m/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19bc19c8-bd13-4937-b534-e047251e4cdf.jpg)
+
 If you think about it, it's funny. We've learned how to do math. We've learned about science and literature. I can even remember learning how to balance a check back in eighth grade.
 
 But we were never taught how to love. There are no classes. No textbook chapter is dedicated to it. We go into love blind.
