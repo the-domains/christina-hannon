@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Those who live in the Midwest understand the real sadness caused by 300 cloudy days per year. The diagnosis is Seasonal Affective Disorder (SAD). It strikes most during the winter. '
-datePublished: '2016-04-28T20:34:53.843Z'
-dateModified: '2016-04-28T20:33:53.492Z'
+datePublished: '2016-04-28T20:33:46.557Z'
+dateModified: '2016-04-28T20:33:03.969Z'
 title: ''
 author: []
 authors: []
