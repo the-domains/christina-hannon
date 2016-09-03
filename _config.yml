@@ -22,11 +22,15 @@ analytics:
 author:
   name: Christina Hannon
   email: hannon.christina@gmail.com
-name: Christina Hannon
+name: Unlock Your Potential
 cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About
+    id: c3a10419-d691-4e97-a5be-3bd6254f58ff
+    type: content
 favicon: null
 title: Christina Hannon
 description: Speaker and Coach
