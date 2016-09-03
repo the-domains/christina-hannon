@@ -1,20 +1,4 @@
-name: Christina Hannon
-favicon: null
-layout_spectrum: 0.23603
 typography_spectrum: 0.9316
-title: 'One Opinion. '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#cbcbcb'
@@ -26,4 +10,23 @@ color:
   lightness: 0.8125
   saturation: 0.8125
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.23603
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Christina Hannon
+  email: hannon.christina@gmail.com
+name: Christina Hannon
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Speaker and Coach
 purpose: []
